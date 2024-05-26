@@ -1,0 +1,86 @@
+ /* seleccionamos la fuente de toda la pagina */
+*{
+    font-family:"Roboto";
+}
+
+html{
+    background-color: #ced6f0;
+    margin: 90px 18cm;
+
+main{
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 0.3cm;
+    padding-top: 0.7cm;
+    padding-bottom: 0.7cm;
+    
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 999;
+}
+
+h2{
+    font-size: px;
+    margin-bottom: 5px;
+}
+
+.texto{
+    font-size: 13px;
+    text-align: justify;
+    margin: 0px 40px 40px 30px;
+    padding: 0px 42px;
+
+}
+
+hr{
+    background-color:#ced6f0 ;
+    width: 80%;
+    height: 0.1px;
+    margin-bottom: 0.5cm;
+}
+.boton {
+    background-color: #367bf5;
+    color: #ffffff;
+    padding: 0.4cm 5.1cm;
+    text-align: center;
+    border-radius: 0.1cm;
+    border-style: none;
+    
+}
+
+.lemail{
+    text-align: left;
+    padding-right: 10cm;
+    font-weight: 500;
+}
+
+.lcontraseña{
+    text-align: left;
+    padding-right: 9.3cm;
+    font-weight: 500;
+
+}
+ .contraseña{
+    padding: 0.4cm 3.5cm;
+    margin: 0.3cm;
+    border-radius: 0.1cm;
+    border-color: #367bf5 ;
+    border-width: thin;
+ }
+
+ .mail{
+    padding: 0.4cm 3.5cm;
+    margin: 0.3cm;
+    border-radius: 0.1cm;
+    border-color: #367bf5 ;
+    border-width: thin;
+    
+ }
+
+ .registro{
+    font-size: 13px;
+    padding-top: 0.8cm;
+ }
