@@ -5,7 +5,7 @@
 
 html{
     background-color: #ced6f0;
-    margin: 90px 18cm;
+    margin: 150px 18cm;
 
 main{
     background-color: #ffffff;
@@ -70,7 +70,7 @@ hr{
     font-weight: 500;
 
 }
- .contraseña{
+.contraseña{
     padding: 0.4cm 3.5cm;
     margin: 0.3cm;
     border-radius: 0.1cm;
@@ -78,7 +78,7 @@ hr{
     border-width: thin;
  }
 
- .mail{
+.mail{
     padding: 0.4cm 3.5cm;
     margin: 0.3cm;
     border-radius: 0.1cm;
@@ -87,7 +87,7 @@ hr{
     
  }
 
- .registro{
+.registro{
     font-size: 13px;
     padding-top: 0.8cm;
  }
