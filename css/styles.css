@@ -17,11 +17,16 @@ main{
 
 }
 
-
+i{
+    margin-left: 4.1cm;
+    color: blue;
+    font-size: 40px;
+}
 
 h1{
     font-size: 50px;
     font-weight: 999;
+    margin: 0px 4cm;
 }
 
 h2{
