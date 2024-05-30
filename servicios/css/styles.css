@@ -53,10 +53,12 @@ div h2{
 
 div p{
     text-align: justify;
+    font-size: 12px;
 }
 
 i{
     padding-left: 10px;
     font-size: 20px;
     border-radius: 110px;
+    color: #4269e2;
 }

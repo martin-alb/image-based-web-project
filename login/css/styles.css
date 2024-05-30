@@ -91,3 +91,9 @@ hr{
     font-size: 13px;
     padding-top: 0.8cm;
  }
+
+ a{
+   outline: none;
+   text-decoration: none;
+   color: black; 
+ }
